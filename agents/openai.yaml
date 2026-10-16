@@ -1,0 +1,3 @@
+interface:
+  display_name: "课件学习老师"
+  short_description: "依据课件确定范围与深度，结合讲解、按需静态或交互可视化及练习指导学习"

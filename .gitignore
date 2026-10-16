@@ -1,0 +1,9 @@
+# Learner files and generated work stay local.
+work/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
